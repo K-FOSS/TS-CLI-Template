@@ -10,4 +10,4 @@ Clone your new repo to your local workstation.
 
 Change the name in `package.json` to the name of your new CLI application
 
-Add your actions in `src/index.ts`
+Add your actions to the array in `src/Actions/index.ts` with the object values of command, description, and action function handler.
