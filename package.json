@@ -31,14 +31,12 @@
   "homepage": "https://github.com/K-FOSS/TS-CLI-Template#readme",
   "devDependencies": {
     "@types/node": "^12.12.17",
-    "@types/yargs": "^13.0.3",
     "nodemon": "^2.0.2",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   },
   "dependencies": {
     "commander": "^4.0.1",
-    "conf": "^6.2.0",
-    "yargs": "^15.0.2"
+    "conf": "^6.2.0"
   }
 }
